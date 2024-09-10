@@ -14,5 +14,4 @@ steps:
 - name: Running linux version
   run: |
     echo Running on Linux
-    uname -a
-  
+    uname -a  

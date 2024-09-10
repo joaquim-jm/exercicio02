@@ -11,7 +11,7 @@ jobs:
                          uses: actions/checkout@v4
                        - name: Etapa 02
                          run: |
-                                 echo "$(cat README.md"
+                                 echo "$(cat README.md)"
                                  uname -a                                                            
         JobWindows:
                 name: Job Windows 
